@@ -1,4 +1,2 @@
 #!/bin/bash
-
-# Use the 'file' command to determine the type of 'iamafile' in /tmp
 file /tmp/iamafile
