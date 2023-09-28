@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# List files in the current directory (including hidden files)
+ls -l
+
+# Change directory to the parent of the working directory
+cd ..
+
+# List files in the parent directory (including hidden files)
+ls -l
+
+# Change directory to the /boot directory
+cd /boot
+
+# List files in the /boot directory (including hidden files)
+ls -l
